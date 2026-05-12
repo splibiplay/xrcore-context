@@ -7,6 +7,12 @@
 
 Neutral runtime context layer for XRCore ecosystems.
 
+## Published foundation (Unity Asset Store)
+
+Install the core SDK from Unity first, then add this module via Git URL:
+
+- [XRCore – Event-Driven AI Framework for Unity XR](https://assetstore.unity.com/packages/tools/ai-ml-integration/xrcore-event-driven-ai-framework-for-unity-xr-366852)
+
 ## Value in 2 Minutes
 
 1. Install XRCore SDK + Context.
